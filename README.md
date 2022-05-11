@@ -1,2 +1,2 @@
 # quick-start
-Empty project for start dev website
+Empty project start website development
