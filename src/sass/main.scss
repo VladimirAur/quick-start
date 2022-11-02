@@ -1,0 +1,11 @@
+@import 'base/reset';
+@import 'base/fonts';
+@import 'base/variables';
+
+h1{
+    font-family: "Roboto-Regular";
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;    
+    background-color: $main-color;
+}

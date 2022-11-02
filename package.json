@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^5.1.0",
+    "gulp-ttf2eot": "^1.1.2",
+    "gulp-ttf2woff": "^1.1.1",
+    "gulp-ttf2woff2": "^4.0.1",
+    "sass": "^1.51.0"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.3.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-tinypng": "^1.0.2"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not IE 11",
+    "maintained node versions"
+  ]
+}
